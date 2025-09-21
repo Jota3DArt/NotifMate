@@ -8,5 +8,5 @@ La aplicación permite configurar cada cuanto te recuerda que te tomes un mate, 
 ## 📦 Descarga la última Release
 
 <p align="center">
-  [![Descargar Release](https://img.shields.io/badge/⬇️%20Descargar%20Release-💾-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jota3DArt/NotifMate/releases/download/RecordatorioMate/AvisoMate.rar)
+  [![Descargar Release](https://github.com/Jota3DArt/NotifMate/releases/download/RecordatorioMate/AvisoMate.rar)
 </p>
